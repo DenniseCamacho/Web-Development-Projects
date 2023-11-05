@@ -1,0 +1,1 @@
+This is a folder of personal website projects I've designed and developed.
